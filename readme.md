@@ -4,7 +4,7 @@
 
 ## esse é um repositório teste para aprendizado do git ##
 
-# gostou do curso? Aceitamos de tudo! #
+# gostou do curso? #
 # Quer mais? Entre em contato conosco #
 # + #
 # edição #
